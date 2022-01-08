@@ -13,8 +13,8 @@
 
 ## Questions
 
-* [Longest Substring Without Repeating Characters] [LongestSubstring.py] 
-* [Median of Two Sorted Array] [MedianTwoArrrays.py] 
+* Longest Substring Without Repeating Characters
+* Median of Two Sorted Array 
 
 
 
