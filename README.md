@@ -13,8 +13,8 @@
 
 ## Questions
 
-* Longest Substring Without Repeating Characters 
-* Median of Two Sorted Array
+* [Longest Substring Without Repeating Characters] [LongestSubstring] 
+* [Median of Two Sorted Array] [MedianTwoArrrays] 
 
 
 
